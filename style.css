@@ -26,7 +26,11 @@
     position: relative;
     top: 18vh;
     margin: 0 auto;
+    flex-direction: row;
 }
+
+
+
 
 .buttons{
     width: 150px;
@@ -34,6 +38,7 @@
     border: 3px solid white;
     position: relative;
     top: 30vh;
-    margin: ;
+    left: 87vw;
+    
 }
 
